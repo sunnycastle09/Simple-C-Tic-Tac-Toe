@@ -98,4 +98,5 @@ void winner(bool nums[9][2], bool turn) {
             exit(0);
         }
     }
+    std::cout<<"d";
 }
